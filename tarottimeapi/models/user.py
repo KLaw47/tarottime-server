@@ -1,5 +1,5 @@
 from django.db import models
 
-class Event(models.model):
+class User(models.Model):
     name = models.CharField(max_length=50)
     uid = models.CharField(max_length=50)

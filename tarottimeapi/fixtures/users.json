@@ -1,0 +1,11 @@
+[
+  {
+      "model": "tarottimeapi.User",
+      "PK": 1,
+      "fields": {
+          "username": "testuser",
+          "image_url": "https://picsum.photos/200/300",
+          "uid": "1"
+      }
+  }
+]

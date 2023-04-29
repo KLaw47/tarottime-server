@@ -1,0 +1,11 @@
+[
+  {
+    "model": "tarottimeapi.Reading",
+    "pk": 1,
+    "fields": {
+      "user_id": 1,
+      "ques": "What is the meaning of life?",
+      "answer": "42"
+    }
+  }
+]
