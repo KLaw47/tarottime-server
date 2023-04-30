@@ -25,7 +25,6 @@ def register_user(request):
 
     user = User.objects.create(
         name=request.data['name'],
-        image_url=request.data['image_url'],
         uid=request.data['uid']
     )
     data = {
