@@ -1,0 +1,26 @@
+[
+  {
+    "model": "tarottimeapi.ReadingCard",
+    "pk": 1,
+    "fields": {
+      "card_id": 1,
+      "reading_id": 1
+    }
+  },
+  {
+    "model": "tarottimeapi.ReadingCard",
+    "pk": 2,
+    "fields": {
+      "card_id": 2,
+      "reading_id": 1
+    }
+  },
+  {
+    "model":"tarottimeapi.ReadingCard",
+    "pk": 3,
+    "fields": {
+      "card_id": 3,
+      "reading_id": 1
+    }
+  }
+]

@@ -1,6 +1,6 @@
 [
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 1,
       "fields": {
           "type": "major",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 2,
       "fields": {
           "type": "major",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 3,
       "fields":{
           "type": "major",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 4,
       "fields": {
           "type": "major",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 5,
       "fields": {
           "type": "major",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 6,
       "fields":{
           "type": "major",
@@ -72,7 +72,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 7,
       "fields": {
           "type": "major",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 8,
       "fields": {
           "type": "major",
@@ -96,7 +96,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 9,
       "fields":{
           "type": "major",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 10,
       "fields":{
           "type": "major",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 11,
       "fields":{
           "type": "major",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 12,
       "fields":{
           "type": "major",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 13,
       "fields":{
           "type": "major",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 14,
       "fields":{
           "type": "major",
@@ -168,7 +168,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 15,
       "fields":{
           "type": "major",
@@ -180,7 +180,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 16,
       "fields": {
           "type": "major",
@@ -192,7 +192,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 17,
       "fields": {
           "type": "major",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 18,
       "fields": {
           "type": "major",
@@ -216,7 +216,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 19,
       "fields": {
           "type": "major",
@@ -228,7 +228,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 20,
       "fields": {
           "type": "major",
@@ -240,7 +240,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 21,
       "fields":{
           "type": "major",
@@ -252,7 +252,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 22,
       "fields":{
           "type": "major",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 23,
       "fields":{
           "name": "Page of Wands",
@@ -277,7 +277,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 24,
       "fields":{
           "name": "Knight of Wands",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 25,
       "fields":{
           "name": "Queen of Wands",
@@ -303,7 +303,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 26,
       "fields":{
           "name": "King of Wands",
@@ -316,7 +316,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 27,
       "fields":{
           "name": "Ace of Wands",
@@ -329,7 +329,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 28,
       "fields":{
           "name": "Two of Wands",
@@ -342,7 +342,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 29,
       "fields":{
           "name": "Three of Wands",
@@ -355,7 +355,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 30,
       "fields":{
           "name": "Four of Wands",
@@ -368,7 +368,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 31,
       "fields":{
           "name": "Five of Wands",
@@ -381,7 +381,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 32,
       "fields":{
           "name": "Six of Wands",
@@ -394,7 +394,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 33,
       "fields":{
           "name": "Seven of Wands",
@@ -407,7 +407,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 34,
       "fields":{
           "name": "Eight of Wands",
@@ -420,7 +420,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 35,
       "fields":{
           "name": "Nine of Wands",
@@ -433,7 +433,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 36,
       "fields":{
           "name": "Ten of Wands",
@@ -446,7 +446,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 37,
       "fields":{
           "name": "Page of Cups",
@@ -459,7 +459,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 38,
       "fields":{
           "name": "Knight of Cups",
@@ -472,7 +472,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 39,
       "fields":{
           "name": "Queen of Cups",
@@ -485,7 +485,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 40,
       "fields":{
           "name": "King of Cups",
@@ -498,7 +498,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 41,
       "fields":{
           "name": "Ace of Cups",
@@ -511,7 +511,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 42,
       "fields":{
           "name": "Two of Cups",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 43,
       "fields":{
           "name": "Three of Cups",
@@ -537,7 +537,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 44,
       "fields":{
           "name": "Four of Cups",
@@ -550,7 +550,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 45,
       "fields":{
           "name": "Five of Cups",
@@ -563,7 +563,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 46,
       "fields":{
           "name": "Six of Cups",
@@ -576,7 +576,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 47,
       "fields":{
           "name": "Seven of Cups",
@@ -589,7 +589,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 48,
       "fields":{
           "name": "Eight of Cups",
@@ -602,7 +602,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 49,
       "fields":{
           "name": "Nine of Cups",
@@ -615,7 +615,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 50,
       "fields":{
           "name": "Ten of Cups",
@@ -628,7 +628,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 51,
       "fields":{
           "name": "Page of Pentacles",
@@ -641,7 +641,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 52,
       "fields":{
           "name": "Knight of Pentacles",
@@ -654,7 +654,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 53,
       "fields":{
           "name": "Queen of Pentacles",
@@ -667,7 +667,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 54,
       "fields":{
           "name": "King of Pentacles",
@@ -680,7 +680,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 55,
       "fields":{
           "name": "Ace of Pentacles",
@@ -693,7 +693,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 56,
       "fields":{
           "name": "Two of Pentacles",
@@ -706,7 +706,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 57,
       "fields":{
           "name": "Three of Pentacles",
@@ -719,7 +719,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 58,
       "fields":{
           "name": "Four of Pentacles",
@@ -732,7 +732,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 59,
       "fields":{
           "name": "Five of Pentacles",
@@ -745,7 +745,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 60,
       "fields":{
           "name": "Six of Pentacles",
@@ -758,7 +758,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 61,
       "fields":{
           "name": "Seven of Pentacles",
@@ -771,7 +771,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 62,
       "fields":{
           "name": "Eight of Pentacles",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 63,
       "fields":{
           "name": "Nine of Pentacles",
@@ -797,7 +797,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 64,
       "fields":{
           "name": "Ten of Pentacles",
@@ -810,7 +810,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 65,
       "fields":{
           "name": "Page of Swords",
@@ -823,7 +823,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 66,
       "fields":{
           "name": "Knight of Swords",
@@ -836,7 +836,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 67,
       "fields":{
           "name": "Queen of Swords",
@@ -849,7 +849,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 68,
       "fields":{
           "name": "King of Swords",
@@ -862,7 +862,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 69,
       "fields":{
           "name": "Ace of Swords",
@@ -875,7 +875,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 70,
       "fields":{
           "name": "Two of Swords",
@@ -888,7 +888,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 71,
       "fields":{
           "name": "Three of Swords",
@@ -901,7 +901,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 72,
       "fields":{
           "name": "Four of Swords",
@@ -914,7 +914,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 73,
       "fields":{
           "name": "Five of Swords",
@@ -927,7 +927,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 74,
       "fields":{
           "name": "Six of Swords",
@@ -940,7 +940,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 75,
       "fields":{
           "name": "Seven of Swords",
@@ -953,7 +953,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 76,
       "fields":{
           "name": "Eight of Swords",
@@ -966,7 +966,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 77,
       "fields":{
           "name": "Nine of Swords",
@@ -979,7 +979,7 @@
       }
     },
     {
-      "model": "tarottimeapi.tarotcard",
+      "model": "tarottimeapi.Card",
       "pk": 78,
       "fields":{
           "name": "Ten of Swords",

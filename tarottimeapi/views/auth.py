@@ -12,8 +12,7 @@ def check_user(request):
     if user is not None:
         data = {
             'id': user.id,
-            'first_name': user.first_name,
-            'last_name': user.last_name,
+            'name': user.name,
             'uid': user.uid,
         }
         return Response(data)
@@ -25,15 +24,12 @@ def check_user(request):
 def register_user(request):
 
     user = User.objects.create(
-        first_name=request.data['first_name'],
-        last_name=request.data['last_name'],
-        image_url=request.data['image_url'],
+        name=request.data['name'],
         uid=request.data['uid']
     )
     data = {
         'id': user.id,
-        'first_name': user.first_name,
-        'last_name': user.last_name,
+        'name': user.name,
         'uid': user.uid,
     }
     return Response(data)

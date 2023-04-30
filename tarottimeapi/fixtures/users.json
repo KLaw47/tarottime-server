@@ -1,0 +1,10 @@
+[
+  {
+      "model": "tarottimeapi.User",
+      "PK": 1,
+      "fields": {
+          "name": "Keaton Law",
+          "uid": "1"
+      }
+  }
+]

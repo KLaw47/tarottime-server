@@ -1,6 +1,6 @@
 from django.db import models
 
-class Event(models.Model):
+class Card(models.Model):
     type = models.CharField(max_length=50)
     name_short = models.CharField(max_length=50)
     name = models.CharField(max_length=50)
